@@ -228,7 +228,9 @@ h1, h2, h3, h4, h5,
 /* Navbar */
 .site-logo {
   font-size: 2rem;
-  color: #000; }
+  color: #000;
+  width: 100%; 
+  }
 
 .site-navbar {
   margin-bottom: 0px;
@@ -256,7 +258,7 @@ h1, h2, h3, h4, h5,
         padding-left: 0; }
       .site-navbar .site-navigation .site-menu > li > a {
         text-transform: uppercase;
-        font-size: .8rem;
+        font-size: 1rem;
         letter-spacing: .05rem;
         font-weight: 400;
         display: inline-block;
