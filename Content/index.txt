@@ -1,0 +1,118 @@
+:index
+
+@text0 The digitization of large quantities of analogue data and the massive production of born-digital documents
+for many years now provide us with large volumes of varied multimedia data (images, maps, text, video,
+multi-sensor data, etc.), an important feature of which is that they are cross-domain. "Cross-domain"
+reflects the fact that these data may have been acquired in very different conditions: different acquisition
+
+systems, times and points of view (e.g. a 1962 postcard from the Arc de Triomphe vs. a recent street-
+view acquisition by mobile mapping of the same monument).
+
+These data represent an extremely rich heritage that can be exploited in a wide variety of fields, from
+SSH to land use and territorial policies, including smart city, urban planning, tourism, creative media and
+entertainment. 
+<br>In terms of research in computer science, they address challenging problems related to
+the diversity and volume of the media across time, the variety of content descriptors (potentially including
+the time dimension), the veracity of the data, and the different user needs with respect to engaging with
+this rich material and the extraction of value out of the data. These challenges are reflected in research
+topics such as multimodal and mixed media search, automatic content analysis, multimedia linking and
+recommendation, and big data analysis and visualisation, where scientific bottlenecks may be
+exacerbated by the time dimension, which also provides topics of interest such as multimodal time series
+analysis.
+<br>
+The objective of this workshop is to present and discuss the latest and most significant trends in the
+analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
+with emphasis on the unlocking of and access to the big data of the past.
+
+@text1 ACM MULTIMEDIA 2019 <br> 21 - 25 October 2019, Nice, France <br>
+@text2 To be published later
+@text3 t3-Our templates are updated regularly so they don't break.
+@text4 t4-You can use this theme as is, or you can make changes!
+@text5 t5-You have to make your websites with love these days!
+@text6 SUMAC 2019 <br> The 1st workshop on Structuring and Understanding of Multimedia heritAge Contents
+@text7 t7-We update dependencies to keep things fresh.
+@text8 Submission
+@text9 t9-contact@gmail.com
+@text10 Scope and topics of the workshop
+@text11 t11-Toggle navigation Menu
+@text12 Program
+@text13 t13-Sturdy Templates
+@text14 Workshop SUMAC 2019
+@text15 Organizers
+@text16 t16-Made with Love
+@text17 Submit Now
+@text18 About the workshop
+
+
+@text20 The objective of this workshop is to present and discuss the latest and most significant trends in the
+analysis, structuring and understanding of multimedia contents dedicated to the valorization of heritage,
+with the emphasis on the unlocking of and access to the big data of the past. We welcome research
+contributions related to the following (but not limited to) topics:
+@text30 Program committee
+@text40 Program committee
+@text50 t50-
+Nathalie Abadie (IGN/LaSTIG, France)<br>
+Margarita Khokhlova (IGN/LaSTIG, LIRIS, France)<br>
+Mohsen Ardabilian (Ecole Centrale Lyon, France)<br>
+Mathieu Aubry (Ecole des Ponts ParisTech, France)<br>
+Jean-Pierre Chanot (NaverLabs Europe, France)<br>
+Maria Eskevich (CLARIN Office Netherlands)<br>
+Sébastien Giordano (IGN, LaSTIG, France)<br>
+Marijn Koolen (Huygens Institute, The Netherlands)<br>
+Vincent Lepetit (University of Bordeaux, LaBRI, France)<br>
+Clément Mallet (IGN, LaSTIG, France)<br>
+Alexandre Saidi (Ecole Centrale Lyon, France)<br>
+Dimitris Samaras (Stony Brook University, USA)<br>
+Andreas Maier (FAU Erlangen, Germany)<br>
+Fulvio Rinaudo (Politechnico Turino, Italy)<br>
+Ivan Lee (University of South Australia, Australia)<br>
+Martyna Poreba (IGN, LaSTIG, France)<br>
+Lauren Tilton (University of Richmond, USA)<br>
+Giorgos Tolias (Czech Technical University in Prague, Czech Republic)<br>
+Luc Van Gool (ETH Zurich, Switzerland)<br>
+Marcel Worring (University of Amsterdam, The Netherlands)<br>
+Michael Ying Yang (University of Twente, The Netherlands)<br>
+
+@text60 Margarita Khokhlova (IGN/LaSTIG, Centrale Lyon/LIRIS, France)
+@text70 Contact Information
+@text80 Any questions? Please contact us!
+@text90 
+@text100 <br>
+
+@text120 t120-Project Name
+
+
+@text21 Submission
+@text22 t22-Project Name
+@text23 Please refer to the submission site for submission policies <br>
+@text24 n/a
+
+@text25 Valerie Gouet-Brunet
+@text26 Sander Münster 
+@text27 Roeland Ordelman 
+@text28 Liming Chen 
+
+@text19 &nbsp (IGN/LaSTIG, France)
+@text121 &nbsp(Technische Universität Dresden, Germany) 
+@text122 &nbsp (Centrale Lyon/LIRIS, France)
+@text123 &nbsp(University of Twente, the Netherlands)
+
+@text29 Call for papers
+
+@text31 Organizers
+@text32 ●Multimedia and cross-domain data interlinking and recommendation <br>
+● Dating and geolocalization of historical data <br>
+● Mixed media data access and indexing <br>
+● Deep learning in adverse conditions (transfer learning, learning with side information, etc.) <br>
+● Multi-modal time series analysis, evolution modelling <br>
+● Multi-modal and multi-temporal data rendering <br>
+● HCI / Interfaces for large scale data sets <br>
+● Smart digitization of massive quantities of data <br>
+● Benchmarking 
+@text33 Submission Due: Monday 08 July 2019
+@text34 Acceptance Notification: Monday 05 August 2019
+@text35 Camera Ready Submission: TBD
+@text36 valerie.gouet@ign.fr <br> margarita.khokhlova@ign.fr
+@text37 Program
+@text38 About
+@text39 <br>
