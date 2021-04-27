@@ -50,10 +50,11 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #665ba7;
+  background-color: #00ccff;
+  color: black;
 }
 .bg-dark {
-  background-color: #3b5998;
+  background-color: #333;
   color: white;
 }
 .text-faded {
