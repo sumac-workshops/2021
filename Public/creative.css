@@ -77,22 +77,22 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
-  border-color: rgba(34, 34, 34, 0.05);
+  background-color: #FFFFFF;
+  border-color: rgba(255, 255, 255, 1.0);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #FFFFFF;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #6f00ff;
+  color: #FFFFFF;
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
@@ -109,24 +109,24 @@ aside {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #F05F40;
+  color: #FFFFFF;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #F05F40 !important;
-  background-color: transparent;
+  color: #FFFFFF !important;
+  background-color: #FFFFFF;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
-  background-color: transparent;
+  background-color: #FFFFFF;
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: transparent;
+    background-color: #000000;
     border-color: rgba(0, 0, 0, 0.9);
   }
   .navbar-default .navbar-header .navbar-brand {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(200, 200, 200, 1.0);
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
@@ -138,7 +138,8 @@ aside {
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
-    color: white;
+    color: red;
+    font-size: 15px;
   }
   .navbar-default.affix {
     background-color: white;
